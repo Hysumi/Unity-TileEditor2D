@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/UnityEditorTile/Unity2D-TileEditor/Assets/TileEditor.unity
+  isLoaded: 1
+  isActive: 1
